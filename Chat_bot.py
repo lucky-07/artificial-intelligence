@@ -1,32 +1,17 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
+#run this file only on jupiter
 
 #install pyttsx3
-pip install pyttsx3
-
-
-# In[14]:
+#pip install pyttsx3
 
 
 #install wikipedia
-pip install wikipedia
-
-
-# In[15]:
-
+#pip install wikipedia
 
 #CODE
 import pyttsx3
 import datetime
 import webbrowser
 import wikipedia
-
-
-# In[11]:
-
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
@@ -439,7 +424,7 @@ if __name__  == "__main__":
     
 
 
-# In[ ]:
+
 
 
 
