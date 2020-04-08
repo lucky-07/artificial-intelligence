@@ -1,4 +1,4 @@
-# artificial-intelligence
-CHATBOT FOR STRESS BUSTER
+# Artificial Intelligence
+# CHATBOT FOR STRESS BUSTER
 Bot response in audio and text both while giving input in text
 
